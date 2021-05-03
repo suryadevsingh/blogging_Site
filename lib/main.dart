@@ -2,7 +2,7 @@ import 'package:bloggingsite/constants.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
-import 'MainScreen.dart';
+import 'screens/main/MainScreen.dart';
 
 void main() {
   runApp(MyApp());

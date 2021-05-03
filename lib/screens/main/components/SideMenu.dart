@@ -1,10 +1,10 @@
 import 'package:bloggingsite/constants.dart';
+import 'package:bloggingsite/screens/home/components/DrawerItem.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
 import 'package:get/get.dart';
 
-import 'DrawerItem.dart';
-import 'MenuController.dart';
+import 'package:bloggingsite/controllers/MenuController.dart';
 
 class SideMenu extends StatelessWidget {
   final MenuController _controller = Get.put(MenuController());

@@ -1,8 +1,8 @@
+import 'package:bloggingsite/models/Blog.dart';
 import 'package:bloggingsite/responsive.dart';
 import 'package:flutter/material.dart';
 import 'package:bloggingsite/constants.dart';
 import 'package:flutter_svg/flutter_svg.dart';
-import 'Blog.dart';
 
 class BlogPostCard extends StatelessWidget {
   final Blog blog;

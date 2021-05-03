@@ -1,8 +1,8 @@
+import 'package:bloggingsite/constants.dart';
 import 'package:flutter/material.dart';
 
 import 'RecentPostCard.dart';
 import 'SideBarContainer.dart';
-import 'constants.dart';
 
 class RecentPosts extends StatelessWidget {
   const RecentPosts({

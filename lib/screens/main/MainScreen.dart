@@ -1,11 +1,10 @@
 import 'package:bloggingsite/constants.dart';
+import 'package:bloggingsite/screens/home/HomeScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-
-import 'HomeScreen.dart';
-import 'MenuController.dart';
-import 'SideMenu.dart';
-import 'header.dart';
+import 'components/SideMenu.dart';
+import 'components/header.dart';
+import 'package:bloggingsite/controllers/MenuController.dart';
 
 class MainScreen extends StatelessWidget {
   final MenuController _controller = Get.put(MenuController());

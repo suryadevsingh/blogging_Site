@@ -1,6 +1,5 @@
+import 'package:bloggingsite/constants.dart';
 import 'package:flutter/material.dart';
-
-import 'constants.dart';
 
 class RecentPostCard extends StatelessWidget {
   final String image, title;

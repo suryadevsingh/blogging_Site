@@ -1,8 +1,7 @@
-import 'package:bloggingsite/MenuController.dart';
+import 'package:bloggingsite/controllers/MenuController.dart';
+import 'package:bloggingsite/screens/home/components/WebMenuItem.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
-
-import 'WebMenuItem.dart';
 
 class WebMenu extends StatelessWidget {
   final MenuController _controller = Get.put(MenuController());

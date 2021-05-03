@@ -1,5 +1,5 @@
-import 'package:bloggingsite/MenuController.dart';
 import 'package:bloggingsite/constants.dart';
+import 'package:bloggingsite/controllers/MenuController.dart';
 import 'package:bloggingsite/responsive.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';

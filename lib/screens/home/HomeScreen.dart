@@ -1,12 +1,12 @@
 import 'package:bloggingsite/constants.dart';
+import 'package:bloggingsite/models/Blog.dart';
 import 'package:bloggingsite/responsive.dart';
 import 'package:flutter/material.dart';
 
-import 'Blog.dart';
-import 'BlogPostCard.dart';
-import 'Categories.dart';
-import 'RecentPosts.dart';
-import 'Search.dart';
+import 'components/BlogPostCard.dart';
+import 'components/Categories.dart';
+import 'components/RecentPosts.dart';
+import 'components/Search.dart';
 
 class HomeScreen extends StatelessWidget {
   @override
