@@ -1,16 +1,32 @@
-# bloggingsite
+# Blogging Site
+## Adaptive layout  
 
-Responsive Bloging website
+# Live
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<a href="https://fir-flutter-demo-app-6580e.web.app/#/">Blogging_Site_Sample</a>
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Screenshots 
+ 
+ # Web View 
+ <p>
+      <img src="https://github.com/suryadevsingh/blogging_Site/blob/master/assets/screenShots/bloggingSample1.png" alt="blogging_Site.com">
+  
+ </p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ # Tablet View 
+ <p>
+      <img src="https://github.com/suryadevsingh/blogging_Site/blob/master/assets/screenShots/bloggingSample2.png" alt="blogging_Site.com">
+  
+ </p>
+
+
+ # Mobile View 
+
+      <img src="https://github.com/suryadevsingh/blogging_Site/blob/master/assets/screenShots/bloggingSample3.png" alt="blogging_Site.com">
+  
+      <img src="https://github.com/suryadevsingh/blogging_Site/blob/master/assets/screenShots/bloggingSample4.png" alt="blogging_Site.com">
+  
+
+
