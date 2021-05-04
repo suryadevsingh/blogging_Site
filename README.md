@@ -23,10 +23,11 @@
 
 
  # Mobile View 
-
+<p>
       <img src="https://github.com/suryadevsingh/blogging_Site/blob/master/assets/screenShots/bloggingSample3.png" alt="blogging_Site.com">
-  
+  </p>
+  <p>
       <img src="https://github.com/suryadevsingh/blogging_Site/blob/master/assets/screenShots/bloggingSample4.png" alt="blogging_Site.com">
-  
+  </p>
 
 
