@@ -18,6 +18,7 @@ class SidebarContainer extends StatelessWidget {
           color: Colors.white,
           borderRadius: BorderRadius.all(Radius.circular(kDefaultPadding / 4))),
       child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
             title,
