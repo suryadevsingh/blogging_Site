@@ -1,6 +1,6 @@
 # Blogging Site
 ## Adaptive layout  
-
+### Show some 🌟 and ❤️ the repo to support the project
 # Live
 
 
